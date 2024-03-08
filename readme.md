@@ -1,0 +1,1 @@
+Example chrome extension for for check service status 
